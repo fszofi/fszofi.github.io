@@ -1,0 +1,10 @@
+main p {
+    border: black solid 2px;
+    width: 300px;
+    margin:auto;
+    padding: 0,
+}
+
+p:hover {
+    background-color: orange;
+}
